@@ -118,7 +118,6 @@ class Definitions
             'pdf',
             'swf',
             'txt',
-            'xml',
             'ods',
             'xls',
             'xlsx',
@@ -138,7 +137,6 @@ class Definitions
             'webm',
             'mkv',
             'rar',
-            'xml',
             'zip'
         ];
     }
